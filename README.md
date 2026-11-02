@@ -52,6 +52,15 @@ Export or recover files if required for the investigation.
 
 ## OUTPUT:
 File and Folder Configuration Analysis Results
+<img width="1920" height="1200" alt="Screenshot 2026-11-02 121933" src="https://github.com/user-attachments/assets/5e1d982b-fe1c-45cd-83cc-111c61df718a" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-02 114416" src="https://github.com/user-attachments/assets/c6c1ded2-5729-41a1-a028-149728c8c7fc" />
+<img width="1920" height="1200" alt="Screenshot 2026-11-02 114438" src="https://github.com/user-attachments/assets/74f11d64-ae4a-4a7c-bf33-204c9e235202" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-02 114457" src="https://github.com/user-attachments/assets/b382cb30-445b-4e18-8409-5839b4db8ac3" />
+<img width="1902" height="1130" alt="Screenshot 2026-11-02 121752" src="https://github.com/user-attachments/assets/904e5d74-1692-4d09-9167-a0f480e7a98d" />
+<img width="1902" height="1130" alt="Screenshot 2026-11-02 121826" src="https://github.com/user-attachments/assets/1e28cc6a-8bb6-4ac9-b379-1916202f49f5" />
+<img width="1902" height="1130" alt="Screenshot 2026-11-02 121841" src="https://github.com/user-attachments/assets/3c3060f8-20c9-4f60-a89e-4642624e7d4f" />
+<img width="1902" height="1130" alt="Screenshot 2026-11-02 120246" src="https://github.com/user-attachments/assets/375f9408-1c26-4dd9-94cb-4e0ca2e50f11" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-02 121423" src="https://github.com/user-attachments/assets/15df6fcd-f819-40ad-bd9e-ce0ef4d8b6a0" />
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
